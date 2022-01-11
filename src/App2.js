@@ -3,7 +3,7 @@ import React from "react";
 import "./styles.css";
 //import "@google/model-viewer/dist/model-viewer";
 //import NFTCard from "./NFTCard";
-
+import { ModelViewerElement } from "@google/model-viewer";
 
 export default function App() {
   return (
