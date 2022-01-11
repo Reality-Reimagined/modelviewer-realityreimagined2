@@ -1,5 +1,5 @@
 import React from 'react'
-import ModelViewer from './Modelviewer'
+import { ModelViewerElement } from '@google/model-viewer'
 
 
 
