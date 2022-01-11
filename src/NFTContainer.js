@@ -1,6 +1,6 @@
 import React from 'react'
 import NFTCard from './NFTCard'
-import App2 from './App2'
+//import App2 from './App2'
 
 
 const NFTContainer = ({ nfts }) => {
